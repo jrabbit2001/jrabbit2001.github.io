@@ -1,6 +1,6 @@
 # 이성록 교수님 퇴임식 초대장 
 
-<img src="https://github.com/jrabbit2001/jrabbit2001.github.io/blob/f5547fd8559c5e02c9d2c3c3540779ae3fa690d5/docs/images/panpic0.jpg"/>
+<img src="https://www.knuw.ac.kr/upload/ap/em/wlfare/img_5001beea-30cf-46f7-a8f6-e517ca617f621561428415444.jpg"/>
 
 이성록 교수님 퇴임식을 초대합니다.
 * 일시 : 2022년 12월 16일 (금) 15시 ~ 18시
