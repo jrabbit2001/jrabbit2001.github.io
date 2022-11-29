@@ -1,6 +1,6 @@
 # 이성록 교수님 퇴임식 초대장 
 
-![메인사진](https://github.com/jrabbit2001/jrabbit2001.github.io/blob/main/docs/images/panpic0.png)
+![메인사진](https://github.com/jrabbit2001/jrabbit2001.github.io/blob/main/docs/images/panpic0.jpg)
 
 이성록 교수님 퇴임식을 초대합니다.
 * 일시 : 2022년 12월 16일 (금) 15시 ~ 18시
